@@ -1,4 +1,3 @@
-// Your code here
 import { currentAgeForBirthYear } from "../utils";
 
 describe("currentAgeForBirthYear", () => {
